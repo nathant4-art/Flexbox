@@ -1,0 +1,26 @@
+.container 
+{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+
+
+
+.box{
+    background-color: beige;
+}
+.two{
+    background-color: red;
+}
+
+nav {
+    display: flex;
+    padding: 15px;
+    background-color: rgba(255, 68, 0, 0.418);
+    list-style: none;
+    gap: 10px;
+    justify-content: space-between;
+    
+}
